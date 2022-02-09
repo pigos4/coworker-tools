@@ -41,3 +41,18 @@ In GitHub:
 
 # coworker-tools
 
+
+
+## Running the CLI
+
+To run the CLI (command line interface):
+
+```bash
+npm start 
+```
+
+For example:
+
+```bash
+npm start list
+```
