@@ -10,6 +10,7 @@ Clone the repo to your local computer and open it in VSCode:
 git clone https://github.com/pigos4/coworker-tools.git
 cd coworker-tools
 code .
+
 ```
 
 ## Contributing
